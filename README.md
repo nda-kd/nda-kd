@@ -18,7 +18,8 @@
 ### 📫 How to reach me:
 **nda.khorshid@gmail.com**
 
-<hr style="border: 0; height: 1.5px; background: linear-gradient(to right, #4b6cb7, #182848); margin: 20px 0;" />
+<hr style="border: none; border-top: 2px dashed #ccc; margin: 20px 0;" />
+
 
 <h3>🛠️ Skills & Tools</h3>
 
