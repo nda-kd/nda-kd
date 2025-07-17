@@ -15,10 +15,11 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nda-kd&theme=tokyonight" alt="GitHub Streak" />
 </p>
- ---
+
+
 <p align="center">
   <a align="center" href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nda-kd&theme=tokyonight&margin-w=20&margin-h=20" />
+    <img src="https://github-profile-trophy.vercel.app/?username=nda-kd&theme=tokyonight&margin-w=20&margin-h=20&align=center" />
   </a>
 </p>
 
@@ -74,6 +75,3 @@
 
 ### 📫 How to reach me:
 **nda.khorshid@gmail.com**
-
----
-
