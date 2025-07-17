@@ -2,6 +2,9 @@
 <h3 align="center">who likes to brings Ideas to the life</h3>
 
 <p align="center">✨✨✨</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nda-kd&label=Profile%20views&color=0e75b6&style=flat" alt="nda-kd" />
+</p>
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -13,11 +16,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nda-kd&theme=tokyonight" alt="GitHub Streak" />
 </p>
  ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nda-kd&label=Profile%20views&color=0e75b6&style=flat" alt="nda-kd" />
-</p>
-
 <p align="center">
   <a align="center" href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=nda-kd&theme=tokyonight&margin-w=20&margin-h=20" />
