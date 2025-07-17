@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Neda </h1>
+<h2 align="center">Hi 👋, I'm Neda </h2>
 <h3 align="center">who likes to brings Ideas to the life</h3>
 
 <p align="center">✨✨✨</p>
