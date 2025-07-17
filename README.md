@@ -72,14 +72,16 @@
 ---
 
 ### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nda-kd&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nda-kd&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=nda-kd&show_icons=true&locale=en" />
+    </td>
+    <td valign="top" style="padding-left: 20px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nda-kd&layout=compact&locale=en" />
+    </td>
+  </tr>
+</table>
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nda-kd&theme=tokyonight" alt="GitHub Streak" />
