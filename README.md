@@ -18,7 +18,7 @@
 ### 📫 How to reach me:
 **nda.khorshid@gmail.com**
 
-<hr style="border: none; border-top: 2px dashed #ccc; margin: 20px 0;" />
+···························
 
 
 <h3>🛠️ Skills & Tools</h3>
@@ -68,7 +68,7 @@
   </tr>
 </table>
 
-
+···························
 
 ### 📊 GitHub Stats
 
