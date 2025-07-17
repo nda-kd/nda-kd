@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Neda </h1>
 <h3 align="center">who likes to brings Ideas to the life</h3>
 
-<p align="center" style="margin: 20px 0;"> 
-─────────────✦─────────────
-</p>
 
 
 <p align="center">
@@ -21,7 +18,9 @@
 ### 📫 How to reach me:
 **nda.khorshid@gmail.com**
 
----
+<p align="center" style="margin: 20px 0;"> 
+─────────────✦─────────────
+</p>
 
 <h3>🛠️ Skills & Tools</h3>
 
