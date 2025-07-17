@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Neda</h1>
 <h3 align="center">who likes to brings Ideas to the life</h3>
 
-<hr style="border: none; border-top: 2 solid #4b6cb7; margin: 30 0;" />
+<p align="center" style="margin: 20px 0;"> 
+─────────────✦─────────────
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nda-kd&label=Profile%20views&color=0e75b6&style=flat" alt="nda-kd" />
