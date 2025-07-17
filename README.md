@@ -77,6 +77,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nda-kd&layout=compact&locale=en&theme=tokyonight&margin-w=50" width="350"  />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nda-kd&theme=tokyonight" alt="GitHub Streak" />
 </p>
