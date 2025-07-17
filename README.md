@@ -13,7 +13,7 @@
   </a>
 </p>
 
----
+
 
 ### 📫 How to reach me:
 **nda.khorshid@gmail.com**
@@ -69,8 +69,6 @@
 </table>
 
 
-
----
 
 ### 📊 GitHub Stats
 
