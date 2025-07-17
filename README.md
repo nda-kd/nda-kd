@@ -13,11 +13,6 @@
   </a>
 </p>
 
-
-
-### 📫 How to reach me:
-**nda.khorshid@gmail.com**
-
 ---
 
 
@@ -68,6 +63,8 @@
   </tr>
 </table>
 
+### 📫 How to reach me:
+**nda.khorshid@gmail.com**
 
 ---
 
