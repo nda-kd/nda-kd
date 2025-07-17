@@ -3,6 +3,16 @@
 
 <p align="center">✨✨✨</p>
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nda-kd&show_icons=true&locale=en&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nda-kd&layout=compact&locale=en&theme=tokyonight&margin-w=50" width="350"  />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nda-kd&theme=tokyonight" alt="GitHub Streak" />
+</p>
+ ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nda-kd&label=Profile%20views&color=0e75b6&style=flat" alt="nda-kd" />
@@ -69,12 +79,3 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nda-kd&show_icons=true&locale=en&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nda-kd&layout=compact&locale=en&theme=tokyonight&margin-w=50" width="350"  />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nda-kd&theme=tokyonight" alt="GitHub Streak" />
-</p>
