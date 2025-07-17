@@ -74,7 +74,7 @@
 ### 📊 GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=nda-kd&show_icons=true&locale=en&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nda-kd&layout=compact&locale=en&theme=tokyonight" width="350" &margin-w=20&margin-h=20 />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nda-kd&layout=compact&locale=en&theme=tokyonight&margin-w=20" width="350"  />
 </p>
 
 <p align="left">
