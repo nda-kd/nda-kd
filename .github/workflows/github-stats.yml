@@ -1,23 +1,25 @@
 name: Generate GitHub Stats
 
 on:
-  workflow_dispatch:
-    # optional: you can add a schedule if you want auto-updates
+  workflow_dispatch:     # manually trigger
+  schedule:
+    - cron: '0 0 * * *'  # daily at midnight UTC
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout Repo
         uses: actions/checkout@v3
 
       - name: Create assets folder
         run: mkdir -p assets
 
-      - name: Download GitHub Stats SVGs
+      - name: Generate GitHub Stats SVGs
         run: |
-          curl -o assets/github_stats.svg "https://github-readme-stats.vercel.app/api?username=nda-kd&show_icons=true&theme=tokyonight"
-          curl -o assets/github_top_langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=nda-kd&layout=compact&theme=tokyonight"
+          # Download GitHub Stats and Top Languages SVGs
+          curl -fLo assets/github_stats.svg "https://github-readme-stats.vercel.app/api?username=nda-kd&show_icons=true&theme=tokyonight" || echo "Skipping GitHub Stats (API unreachable)"
+          curl -fLo assets/github_top_langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=nda-kd&layout=compact&theme=tokyonight" || echo "Skipping Top Languages (API unreachable)"
 
       - name: Commit SVGs
         run: |
