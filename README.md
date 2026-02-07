@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Neda Korshid</h1>
+[<h1 align="center">Hi 👋, I'm Neda Korshid</h1>
 <h3 align="center">Front-end Developer | Someone who enjoys bringing ideas to life</h3>
 
 <p align="center">✨✨✨</p>
@@ -59,3 +59,4 @@
 <p align="center">
   <a href="mailto:nda.khorshid@gmail.com">nda.khorshid@gmail.com</a>
 </p>
+](https://github-profile-trophy.vercel.app/?username=nda-kd&theme=tokyonight&margin-w=20&margin-h=20)
