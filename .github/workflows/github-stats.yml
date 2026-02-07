@@ -1,0 +1,27 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # runs every day at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub Stats
+        run: |
+          mkdir -p assets
+          curl -o assets/github_stats.svg "https://github-readme-stats.vercel.app/api?username=nda-kd&show_icons=true&theme=tokyonight"
+          curl -o assets/github_top_langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=nda-kd&layout=compact&theme=tokyonight"
+
+      - name: Commit stats images
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/github_stats.svg assets/github_top_langs.svg
+          git commit -m "Update GitHub stats images [skip ci]" || echo "No changes"
+          git push
