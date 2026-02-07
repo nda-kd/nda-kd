@@ -9,9 +9,9 @@
   <img src="./assets/github_top_langs.svg" alt="Top Languages" width="350" />
 
   <!-- Static badges (replacing Profile Views, Streak, Trophies) -->
-  <img src="https://img.shields.io/badge/Profile%20Views-123-blue" alt="Profile Views">
+ <!-- <img src="https://img.shields.io/badge/Profile%20Views-123-blue" alt="Profile Views">
   <img src="https://img.shields.io/badge/Streak-10-red" alt="GitHub Streak">
-  <img src="https://img.shields.io/badge/Trophies-5-orange" alt="GitHub Trophies">
+  <img src="https://img.shields.io/badge/Trophies-5-orange" alt="GitHub Trophies">-->
 </p>
 
 
