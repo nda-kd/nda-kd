@@ -1,73 +1,49 @@
-<h1 align="center">Hi 👋, I'm Neda</h1>
-<h3 align="center">Someone who enjoys bringing ideas to life.</h3>
+# Hi, I'm [Your Name] 👋
 
-<p align="center">✨✨✨</p>
+### Software Engineer | Full-Stack Developer | System Enthusiast
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nda-kd&label=Profile%20views&color=0e75b6&style=flat" alt="nda-kd" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nda-kd&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nda-kd&layout=compact&locale=en&theme=tokyonight" alt="Top Languages" width="350" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nda-kd&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nda-kd&theme=tokyonight&margin-w=20&margin-h=20" alt="GitHub Trophies" />
-</p>
+I am a developer passionate about building efficient, scalable applications and diving deep into how software works under the hood. From crafting custom shells in **C** to architecting modern web experiences with **Next.js**, I love the challenge of bridging low-level logic with high-level design.
 
 ---
 
-<h3>🛠️ Skills & Tools</h3>
+## 🛠️ Technical Toolkit
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"><br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"><br>CSS3
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"><br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"><br>TypeScript
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"><br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"><br>Redux
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"><br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"><br>Sass
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"><br>Postman
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"><br>Figma
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"><br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"><br>Linux
-    </td>
-  </tr>
-</table>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | C, C++, JavaScript, TypeScript, Python |
+| **Frontend** | React, Next.js, Tailwind CSS, HTML5/CSS3 |
+| **Backend** | Node.js, PostgreSQL, REST APIs |
+| **Low Level** | Unix System Programming, Memory Management, Shell Scripting |
+| **DevOps** | Git, Docker, Linux (Ubuntu/Debian) |
 
-### 📫 How to reach me:
-**nda.khorshid@gmail.com**
+---
+
+## 🌟 Featured Projects
+
+### [Minishell](https://github.com/nda-kd/minishell)
+*A miniature version of a real Unix shell.*
+- **Tech Stack:** C, Readline, Unix Systems API.
+- **Key Feature:** Implemented a complex command-line interpreter including pipes, redirections, and environment variable management.
+- **Challenge:** Solved intricate memory leak issues and signal handling for a robust user experience.
+
+### [Inception](https://github.com/nda-kd/inception)
+*System Administration and Dockerization.*
+- **Tech Stack:** Docker, NGINX, MariaDB, WordPress.
+- **Key Feature:** Built a small infrastructure of multiple services in separate containers using Docker Compose, adhering to strict system security protocols.
+
+---
+
+## 📈 My GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nda-kd&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nda-kd&layout=compact&theme=radical)
+
+---
+
+## 📫 How to reach me:
+
+- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
+- **Email:** [yourname@email.com]
+
+*"The best way to predict the future is to invent it."*
