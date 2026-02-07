@@ -4,21 +4,13 @@
 <p align="center">✨✨✨</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nda-kd&label=Profile%20views&color=0e75b6&style=flat" alt="nda-kd" />
+  ![Profile Views](https://img.shields.io/badge/Profile%20Views-👀-blue)
+  ![GitHub Stats](https://img.shields.io/badge/GitHub-Stats-1abc9c)
+  ![Top Languages](https://img.shields.io/badge/Top%20Languages-JS-yellow)
+  ![GitHub Streak](https://img.shields.io/badge/Streak-🔥-red)
+  ![GitHub Trophies](https://img.shields.io/badge/Trophies-🏆-orange)
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nda-kd&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nda-kd&layout=compact&locale=en&theme=tokyonight" alt="Top Languages" width="350" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nda-kd&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nda-kd&theme=tokyonight&margin-w=20&margin-h=20" alt="GitHub Trophies" />
-</p>
 
 ---
 
